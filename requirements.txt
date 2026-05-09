@@ -1,0 +1,6 @@
+allure-pytest
+allure-python-commons
+playwright
+pytest
+python-slugify
+requests
